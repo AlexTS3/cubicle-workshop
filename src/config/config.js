@@ -1,0 +1,2 @@
+
+exports.SECRET = 'someverylongsecret';
